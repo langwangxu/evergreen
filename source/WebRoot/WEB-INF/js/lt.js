@@ -1,0 +1,3 @@
+var myletemp = {
+		legendTemplate: "<ul class=\"<%=name.toLowerCase()%>-legend\"><% for (var i = 0; i < data.datasets[0].data.length; i++){%><li><span style=\"background-color:<%=data.datasets[0].backgroundColor[i]%>\"></span><%if(data.labels && i < data.labels.length){%>失败原因：<%=data.labels[i]%><br/>失败次数：<code><%=data.datasets[0].data[i]%></code>  占比：<code><%=data.datasets[0].percent[i]%></code><%}%></li><%}%></ul>"
+};

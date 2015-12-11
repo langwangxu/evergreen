@@ -1,0 +1,156 @@
+		*{
+			margin:0;
+			padding:0;
+		}
+		body{
+			font-size:12px;
+			font-family:"Microsoft Yahei";
+			padding-top:50px;
+			padding-bottom:50px;
+		}
+		.navbar-inverse{
+			background-color:#333;
+		}
+		.carousel{
+			height:500px;
+			background-color:#333;
+			margin-bottom:60px;
+		}
+		.carousel .item{
+			height:500px;
+			background-color:#333;
+			text-align:center;
+		}
+		.carousel .item img{
+			 margin:0 auto;
+		}
+		#summary-container .col-md-4{
+			text-align:center;
+		}
+		.navbar > .container .navbar-brand{
+			color:#fff;
+			padding:0px;
+		}
+		.navbar > .container .navbar-brand img{
+			margin-left:15px;
+		}
+		.navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus{
+			color:#ff4f1c;
+		}
+		.feature{
+			padding:30px 0;
+		}
+		.feature-heading{
+			font-size:50px;
+			color:#2a6496;
+		}
+		.feature-heading .text-muted{
+			font-size:28px;
+			color:#999;
+		}
+		.feature img{
+			height:80%;
+			width:80%;
+			margin-left:60px;
+			margin-top: 15px;
+		}
+		
+		#about-li{
+			outline:none;
+		}
+		
+		hr.divider{
+			margin:50px 0;
+		}
+		
+		.myi{
+			margin-right: 10px;
+		}
+		
+		.md-i{
+			font-size: 86px;
+			line-height: 100px;
+		}
+		
+		.mdi-2{
+			font-size: 150px;
+			line-height: 150px;
+		}
+		
+		.lead-18{
+			font-size:16px;
+			line-height: 28px;
+		}
+		
+		.lead-18 .badge{
+		 	font-size:16px;
+		 	color:#5E0718;
+		 	background-color:#CBCBCB;
+		}
+		
+		.fa-red{
+			color:#FF4F1C;
+		}
+		
+		.fa-green{
+			color:#3FCF32;
+		}
+		
+		.fa-green-color{
+			color:#6BA155;
+		}
+		
+		.fa-remove-color{
+			color:#b94a48;
+		}
+		
+		.fa-blue{
+			color:#4A88D4;
+		}
+		
+		.report-heading{
+			font-size:30px;
+		}
+		
+		.report-s-muted{
+			font-size:16px;
+			color:#777;
+		}
+		
+		#report-i{
+			font-size:initial;
+			color:rgba(235, 9, 45, 0.8);
+		}
+		.navbar-inverse .navbar-nav > li > a{
+			color:#fff;
+		}
+		.navbar-inverse .navbar-nav > li > a:hover, 
+		.navbar-inverse .navbar-nav > li > a:focus{
+			color:#A7F0A3;
+		}
+		.modal-mo{
+			padding:2px;
+		}
+		.modal-mo .row{
+			margin-left:0px;
+			margin-right:0px;
+		}
+		.modal-mo img{
+			width:100%;
+			border:1px solid #fff;
+		}
+		.modal-mo div.row div{
+			padding-right:2px;
+			padding-left:2px;
+		}
+		.panel-mo{
+			margin-bottom:10px;
+			margin-top:10px;
+		}
+		.message-label{
+			text-align:left;
+			padding-top:7px;
+			margin-top:0px;
+			margin-bottom:0px;
+			color:#b94a48;
+		}
